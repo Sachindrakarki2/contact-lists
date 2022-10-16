@@ -1,0 +1,17 @@
+.wrapper {
+  background: rgba(213, 227, 239, 0.394);
+  min-height: 100vh;
+}
+
+li {
+  margin-bottom: 0.3rem;
+  display: flex;
+}
+
+i {
+  background: linear-gradient(green, yellow);
+  width: 30px;
+  height: 30px;
+  padding-left: 7px;
+  border-radius: 50%;
+}
